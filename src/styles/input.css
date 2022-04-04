@@ -1,0 +1,16 @@
+.input input {
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    outline: none;
+    border-color: lightgray;
+    border-width: 0.5px;
+    padding-left: 8px;
+    margin-bottom: 16px;
+    margin-top: 8px;
+}
+
+.input p {
+    margin-top: -12px;
+    margin-bottom: 16px;
+}

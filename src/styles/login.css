@@ -1,0 +1,21 @@
+.login {
+  /* center div */
+  display: flex;
+  flex: 1;
+  height: max-content;
+  width: max-content;
+  justify-content: center;
+  align-items: center;
+  margin: 15vh auto;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0px 2px 10px 0px #bfbfbf;
+}
+p .nothaveaccount {
+  line-height: 45px;
+  color: blue;
+}
+
+p .nothaveaccount:hover {
+  text-decoration: underline;
+}

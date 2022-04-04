@@ -1,0 +1,8 @@
+.register {
+    /* center div */
+    display: flex;
+    flex: 1;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+}

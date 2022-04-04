@@ -1,0 +1,26 @@
+.notfound {
+    display: flex;
+    flex: 1;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.notfound h1 {
+    font-size: 200px;
+    font-weight: 700;
+    margin: 0;
+    color: #000;
+    text-transform: uppercase;
+    line-height: 1;
+}
+
+.notfound h3 {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0;
+    color: #000;
+    text-transform: uppercase;
+    line-height: 1;
+    margin-left: 16px;
+}
